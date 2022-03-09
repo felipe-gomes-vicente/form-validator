@@ -4,7 +4,7 @@
 # Formulário com Validação
 
 <h1 align="center">
-    <img alt="Gif do formulário" title="Formulário " src="./github/form-validator.gif" />
+    <img alt="Gif do formulário" title="Formulário " src="https://github.com/felipe-gomes-vicente/form-validator/blob/main/.github/form-validator.gif" />
 </h1>
 
 <br>
@@ -38,7 +38,7 @@ Aplicado meu conhecimento do Discover da Rocketseat conceitos de forma prática 
 - Alinhando os planetas
 
 
- <img alt="Imagem do projeto formulario" title=" formulario" src="./github/form-validator.png" />
+ <img alt="Imagem do projeto formulario" title=" formulario" src="https://github.com/felipe-gomes-vicente/form-validator/blob/main/.github/form-validator.png" />
 
 ## 🧪 Tecnologias
 
