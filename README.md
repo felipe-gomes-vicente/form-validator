@@ -1,30 +1,31 @@
-# form-validator
-
-
-# Formulário com Validação
+# Validar Formulário de Cadastro
 
 <h1 align="center">
-    <img alt="Gif do formulário" title="Formulário " src="https://github.com/felipe-gomes-vicente/form-validator/blob/main/.github/form-validator.gif" />
+    <img alt="Gif do projeto validar formulário" title="Formulário " src="https://github.com/felipe-gomes-vicente/form-validator/blob/main/.github/form-validator.gif" />
 </h1>
 
 <br>
 
-### 💻 Formulário Com Validação
- 
-Projeto web de cadastro de formulário utilizando as tecnologias HTML, CSS e JavaScript, 
-o desafio desse projeto seria identificar se os dados estavam preenchidos e não receber 
-o formulário vazio, identificar a entrada de email se foi digitado e-mail válido.
+### 💻 Validar Formulário de Cadastro
+
+O desafio desse projeto seria identificar a entrada de dados no formulário e validar se estão 
+vazios ou completos. Projeto web de cadastro de formulário utilizando as tecnologias HTML, CSS 
+e JavaScript. 
 
 
 O que foi feito:
 - Estilo na página com CSS e formatar elementos html
 - Interagir com elementos html para manipular via javascript
-- Se algum item estiver vazio retornará aviso de erro no local que está vazio.
+- Validar itens de entrada de dados da tag input com javascript
+- Se algum item do formulário estiver vazio retornará uma saida com o aviso de erro logo acima 
+do item vazio.
 - Validar e-mail com regex 
+- Importar arquivo de CSS externo no projeto
+- Importar arquivo de Javascript externo no projeto
 - Imagem de fundo
-- Interagir com botão Submit
+- Interagir com botão Submit, manipulação e formatação do botão com CSS
 - Cursor do mouse como ponteiro no botão
-- Importação de fonte(tipografia) externa
+- Importação de fonte(tipografia) externa no arquivo do CSS 
 - Utilizar variaveis CSS para manipular a paleta de cores do projeto
 - Reset CSS removendo possíveis inconsistências entre navegadores diferentes
 - Sistema de arquivos do projeto separado por pasta 
